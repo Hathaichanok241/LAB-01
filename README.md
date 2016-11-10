@@ -48,12 +48,13 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 ## บันทึกผลการทดลอง
 
- [ให้สรุปผลการทดลอง แล้ว commit changes จากนั้นให้ส่งไปที่ edmodo]
- เหตุผลที่ต้องแจ้ง เพราะส่วนใหญ่ไม่ได้ใช้ชื่อจริง + รหัสนักศึกษา ในการสมัคร github
+ สรุปผลการทดลอง
+        จากการทดลอง ทำให้ทราบว่า  MessageBox นั้นมีหลายุปแบบให้เลือกใช้ โดยเปลี่ยน ชนิดของ MessageBox ที่หลังเครื่องหมาย , สุดท้ายของประโยค MessageBox
  <img src ="https://github.com/Hathaichanok241/LAB-01/blob/master/1.2.JPG?raw=true">
 
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
+
   ตอบ ไม่พบปัญหาในการคอมไพล์โปรแกรม
 2. ให้ทดลองแก้ไข <code> MessageBox(...) </code> โดยการเปลี่ยน <code> MB_OK </code> เป็นค่าอื่นๆ [ดูได้จากอ้างอิงตามลิงค์นี้](https://github.com/Desktop-Programming-Lab-2559/LAB-01/blob/master/message-box.md)
 
@@ -71,3 +72,5 @@ WinMain (..), MessageBox(..)
 * [Win32 programming tutorials](http://www.win32developer.com/tutorial.shtm)
 
 * [Building a Win32 App, Part 2: Windows and Messages](https://www.codementor.io/c_plus_plus/tutorial/build-win32-api-app-windows-messages-c-cpp-visual-studio)
+
+##นางสาวหทัยชก วังคะวิง 57030241 
