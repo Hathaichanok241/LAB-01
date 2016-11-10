@@ -50,6 +50,8 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
  สรุปผลการทดลอง
         จากการทดลอง ทำให้ทราบว่า  MessageBox นั้นมีหลายุปแบบให้เลือกใช้ โดยเปลี่ยน ชนิดของ MessageBox ที่หลังเครื่องหมาย , สุดท้ายของประโยค MessageBox
+	
+	
  <img src ="https://github.com/Hathaichanok241/LAB-01/blob/master/1.2.JPG?raw=true">
 
 ## คำถาม 
